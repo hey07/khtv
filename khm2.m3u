@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",ទូរទស្សន៍ បាយ័ន (720p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
