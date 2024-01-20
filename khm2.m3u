@@ -50,5 +50,13 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="General",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="General",BS Fuji TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="General",BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="General",BS TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
