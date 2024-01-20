@@ -50,3 +50,5 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="General",BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
