@@ -40,6 +40,14 @@ http://203.80.165.14/stream/channelid/536374439?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",MYTV
 http://203.80.165.14/stream/channelid/1518243876?profi#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV3
 http://203.80.165.14/stream/channelid/964045200?profile=passle=pass
+#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="KHMER",AKCTV 26 Drama
+http://203.80.165.14/stream/channelid/1601899558?profile=pass
+#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="KHMER",AKCTV25
+http://203.80.165.14/stream/channelid/1721237608?profile=pass
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://shorturl.at/qrBY7" group-title="KHMER",AKCTV_21
+http://203.80.165.14/stream/channelid/434020659?profile=pass
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="KHMER",AKCTV_23
+http://203.80.165.14/stream/channelid/1941077281?profile=pass
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/CNN.png" group-title="News",CNN (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News",BBC (720p)
