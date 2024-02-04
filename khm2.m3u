@@ -52,6 +52,10 @@ http://203.80.165.14/stream/channelid/1941077281?profile=pass
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News",BBC (720p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-1,SPO: beIN ASIAN CUP 1️⃣ HD
+http://ugeen.live:8080/kaicer_VIPea4ng8/3wvyj2/4358
+#EXTINF:-1 group-title="beIN ASIAN",SPO: beIN ASIAN CUP 2️⃣ HD
+http://ugeen.live:8080/kaicer_VIPea4ng8/3wvyj2/4362
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/bmIVW", Bein Sports 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gsGW1", Bein Sports 2
