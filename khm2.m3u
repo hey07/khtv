@@ -1,4 +1,5 @@
 #EXTM3U
+# Khmer Channel #
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",ទូរទស្សន៍ បាយ័ន (720p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p) [Not 24/7]
@@ -48,10 +49,12 @@ http://203.80.165.14/stream/channelid/1721237608?profile=pass
 http://203.80.165.14/stream/channelid/434020659?profile=pass
 #EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="KHMER",AKCTV_23
 http://203.80.165.14/stream/channelid/1941077281?profile=pass
+*** International News ***
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/CNN.png" group-title="News",CNN (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News",BBC (720p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+*** Sport ***
 #EXTINF:-1,SPO: beIN ASIAN CUP 1️⃣ HD
 http://ugeen.live:8080/kaicer_VIPea4ng8/3wvyj2/4358
 #EXTINF:-1 group-title="beIN ASIAN",SPO: beIN ASIAN CUP 2️⃣ HD
@@ -80,6 +83,7 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 https://edge1.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
+*** Japanese TV ***
 #EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="General",BS Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="General",BS Fuji TV (544p)
