@@ -55,10 +55,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News",BBC (720p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 *** Sport ***
-#EXTINF:-1,SPO: beIN ASIAN CUP 1️⃣ HD
-http://ugeen.live:8080/kaicer_VIPea4ng8/3wvyj2/4358
-#EXTINF:-1 group-title="beIN ASIAN",SPO: beIN ASIAN CUP 2️⃣ HD
-http://ugeen.live:8080/kaicer_VIPea4ng8/3wvyj2/4362
 #EXTINF:-1 group-title="LAOTV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/6c7058d3-35f7-4e2c-85ef -b1f6ba3949f6.png", T Sports 7
 https://ctrl.laotv.la/live/TSports7/index.m3u8
 #EXTINF:-1 group-title="LAOTV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/44bda67e-5e21-479e-aa78 -1956ba229382.jpg", CH7 HD
