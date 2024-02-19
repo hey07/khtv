@@ -15,13 +15,16 @@ http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlis
 #http://203.80.165.14/stream/channelid/1365041137?profile=pass
 #EXTINF:-1 tvg-id="RHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Undefined",R Hang Meas HDTV (1080p)
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/esPT2" group-title="KHMER",HANGMEAS NOW
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Undefined",PNN (360p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Undefined",TV5 Cambodia (720p) [Not 24/7]
 #http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
-https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+#https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+http://203.80.165.14/stream/channelid/1998895537?profile=pass
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Undefined",TVK 2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Undefined",TVK (720p)
