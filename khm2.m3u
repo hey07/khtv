@@ -6,7 +6,8 @@ https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9 (1080p)
 #http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
-https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
+#https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
+https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News (720p)
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/HM.jpg" group-title="Undefined",Hang Meas HDTV (1080p)
@@ -24,7 +25,8 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Undefined",TV5 Cambodia (720p) [Not 24/7]
 #http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
-http://203.80.165.14/stream/channelid/1998895537?profile=pass
+#http://203.80.165.14/stream/channelid/1998895537?profile=pass
+https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Undefined",TVK 2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Undefined",TVK (720p)
@@ -32,7 +34,8 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education",WIKI TV (720p)
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Apsara TV" tvg-name="Apsara TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Y67HLYUc8tI/XllMvduYKHI/AAAAAAAAJ9s/-PkYiDQ_DPAkhSBrZCr6liCzuONjPCxlgCLcBGAsYHQ/s1600/apsara-tv.png" group-title="KH TV",Apsara TV
-https://live.ams.com.kh/app/stream/playlist.m3u8
+#https://live.ams.com.kh/app/stream/playlist.m3u8
+https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KHMERTV.KH" tvg-name="KhmerTV" tvg-country="KH" tvg-language="khmer" tvg-logo="" group-title="KhmerTV", Khmer TV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TOWNTV.kh" tvg-name="TOWNTV" tvg-country="KH" tvg-language="Cambodia" tvg-logo="https://i.imgur.com/KYkvojX.png" group-title="TOWNTV", TOWNTV
@@ -42,8 +45,10 @@ http://203.80.165.14/stream/channelid/966549443?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CTN
 http://203.80.165.14/stream/channelid/536374439?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",MYTV
-http://203.80.165.14/stream/channelid/1518243876?profi#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV3
-http://203.80.165.14/stream/channelid/964045200?profile=passle=pass
+http://203.80.165.14/stream/channelid/1518243876?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV3
+#http://203.80.165.14/stream/channelid/964045200?profile=pass
+https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8
 #EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="KHMER",AKCTV 26 Drama
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 #EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="KHMER",AKCTV25
