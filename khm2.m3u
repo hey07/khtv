@@ -54,6 +54,8 @@ https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News",BBC (720p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="Animals.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News", Animals
+http://ftflivetv.xyz:83/live/Bobbie330/3167905482/753777.ts
 *** Sport ***
 #EXTINF:-1 group-title="LAOTV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/6c7058d3-35f7-4e2c-85ef -b1f6ba3949f6.png", T Sports 7
 https://ctrl.laotv.la/live/TSports7/index.m3u8
