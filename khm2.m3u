@@ -52,35 +52,7 @@ https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8
 *** International News ***
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/CNN.png" group-title="News",CNN (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News",BBC (720p)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="Animals.uk" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/BBC.jpg" group-title="News", Animals
-http://ftflivetv.xyz:83/live/Bobbie330/3167905482/753777.m3u8
-*** Sport ***
-#EXTINF:-1 group-title="LAOTV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/6c7058d3-35f7-4e2c-85ef -b1f6ba3949f6.png", T Sports 7
-https://ctrl.laotv.la/live/TSports7/index.m3u8
-#EXTINF:-1 group-title="LAOTV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/44bda67e-5e21-479e-aa78 -1956ba229382.jpg", CH7 HD
-https://ctrl.laotv.la/live/Thai7/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/bmIVW", Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gsGW1", Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2
-https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 group-title="WWE" tvg-logo="https://shorturl.at/bptV7", WWE
-https://ctrl.laotv.la/live/WWE/index.m3u8
+
 *** Japanese TV ***
 #EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="General",BS Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
