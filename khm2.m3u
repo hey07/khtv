@@ -7,17 +7,20 @@ https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9 (1080p)
 #http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
 #https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
-https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
+#https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
+https://live.kh.unitysystem.net/live/tv9.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News (720p)
-https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/HM.jpg" group-title="Undefined",Hang Meas HDTV (1080p)
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w390370135_b1800000_sleng.m3u8
+#http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #http://203.80.165.14/stream/channelid/1448884111?profile=pass
 #http://203.80.165.14/stream/channelid/1365041137?profile=pass
 #EXTINF:-1 tvg-id="RHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Undefined",R Hang Meas HDTV (1080p)
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w158251217_b1800000_sleng.m3u8
+#http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/esPT2" group-title="KHMER",HANGMEAS NOW
-https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Undefined",PNN (360p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined",SEATV (1080p)
@@ -26,7 +29,8 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 #http://203.80.165.14/stream/channelid/1998895537?profile=pass
-https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
+#https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Undefined",TVK 2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Undefined",TVK (720p)
@@ -43,15 +47,24 @@ https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CNC 
 http://103.25.92.30:10017/2.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CTN 
-http://103.25.92.30:10016/2.m3u8 
+http://103.25.92.30:10016/2.m3u8
+#https://live.happywatch99.com/live/ctn_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",MYTV 
 http://103.25.92.30:10018/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV3
 #http://203.80.165.14/stream/channelid/964045200?profile=pass
-https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8
+#https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ខ្មែរ🇰🇭",PP Digital TV🇰🇭
+https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
+
 *** International News ***
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="ថៃ🇹🇭",TV7🇹🇭
+http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://1ktzgc2e8dich.cdn.shift8web.com/storage/CNN.png" group-title="News",CNN (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="បរទេស",Cartoon Network🇺🇸
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 *** Japanese TV ***
 #EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="General",BS Asahi (544p)
