@@ -14,11 +14,13 @@ https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 *** Hang Meas Group ***
+#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Hang Meas Group",Rasmey Hang Meas HDTV
+http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:rhmhdtv1.smil/chunklist_w700995940_b1800000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png" group-title="Hang Meas Group",Hang Meas HDTV
 #http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdtv1.smil/chunklist_w1185814818_b1800000_sleng.m3u8
-#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Hang Meas Group",Rasmey Hang Meas HDTV
-http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:rhmhdtv1.smil/chunklist_w700995940_b1800000_sleng.m3u8
+
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Hang Meas Group",Hang Meas NOW UHDTV (1080p)
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Hang Meas Group",Hang Meas MELODY UHDTV (1080p)
@@ -33,12 +35,12 @@ http://abclive.malisresidences.com:1935/snappee/_definst_/smil:snappee.smil/chun
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Hang Meas Group",Hang Meas BOXING UHDTV (1080p)
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Undefined",PNN (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ប៉ុស្តិ៍ខ្មែរ",PNN (360p) [Not 24/7]
 #https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 http://43.245.34.8:9000/OneTV/PNN.m3u8
-#EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined",SEATV (1080p)
+#EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ប៉ុស្តិ៍ខ្មែរ",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Undefined",TV5 Cambodia
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia
 #http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 #http://203.80.165.14/stream/channelid/1998895537?profile=pass
@@ -52,7 +54,7 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education",WIKI TV (720p)
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Apsara TV" tvg-name="Apsara TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Y67HLYUc8tI/XllMvduYKHI/AAAAAAAAJ9s/-PkYiDQ_DPAkhSBrZCr6liCzuONjPCxlgCLcBGAsYHQ/s1600/apsara-tv.png" group-title="KH TV",Apsara TV
+#EXTINF:-1 tvg-id="Apsara TV" tvg-name="Apsara TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Y67HLYUc8tI/XllMvduYKHI/AAAAAAAAJ9s/-PkYiDQ_DPAkhSBrZCr6liCzuONjPCxlgCLcBGAsYHQ/s1600/apsara-tv.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Apsara TV
 #https://live.ams.com.kh/app/stream/playlist.m3u8
 #https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 http://live.happywatch99.com/md5=DcO4kB7jtPLdILvZGbXTXA&expires=1726732476/livehd16/dbfc97fe0794c382a5db3c7b825c6c53.sdp/playlist.m3u8
