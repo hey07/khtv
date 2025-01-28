@@ -80,12 +80,13 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 #https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV🇰🇭
-https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
+http://live.happywatch99.com/livehd3/f9527f8b5631c605187be673ce3f2f75.sdp/playlist.m3u8
 
 *** International News ***
 
 
 *** Japanese TV ***
-#EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="General",BS Asahi (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-
+##EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="General",BS Asahi (544p)
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
