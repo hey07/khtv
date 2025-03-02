@@ -65,7 +65,8 @@ https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="CTN Group",CNC 
 #http://103.25.92.30:10017/2.m3u8
-http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+#http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+http://43.245.34.8:9000/OneTV/CNC.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="CTN Group",CTN 
 #work-http://103.25.92.30:10016/2.m3u8
 #work-https://live.happywatch99.com/live/ctn_hp99$!24/playlist.m3u8
@@ -75,7 +76,8 @@ http://43.245.34.8:9000/OneTV/CTN.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="CTN Group",MYTV 
 #http://103.25.92.30:10018/2.m3u8
 #https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kxTURoRVFqWkVNMFU1Sm5OMFBXeHBkbVVtYzNSNVBXUmhjMmclM2QmdG9rPTY5N2JlNDgxNWVjYjY3NmYwYTY5NmUzYzc2YTFkYjNlNmEwOWM2MjgmZGV2aWQ9ZGNmYWVmYTczYTYzOGRmYTJjY2RjNjNlZjc1MmU1Yzc%3D/auto_h264.mpd
-http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+#http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+http://43.245.34.8:9000/OneTV/MYTV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="ប៉ុស្តិ៍ខ្មែរ",TV3
 #http://203.80.165.14/stream/channelid/964045200?profile=pass
 #https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8
