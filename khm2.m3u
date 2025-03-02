@@ -16,11 +16,9 @@ http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 *** Hang Meas Group ***
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Hang Meas Group",Rasmey Hang Meas HDTV
 http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:rhmhdtv1.smil/chunklist_w700995940_b1800000_sleng.m3u8
-
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png" group-title="Hang Meas Group",Hang Meas HDTV
 #http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdtv1.smil/chunklist_w1185814818_b1800000_sleng.m3u8
-
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Hang Meas Group",Hang Meas NOW UHDTV (1080p)
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Hang Meas Group",Hang Meas MELODY UHDTV (1080p)
@@ -78,6 +76,8 @@ http://43.245.34.8:9000/OneTV/CTN.m3u8
 #https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kxTURoRVFqWkVNMFU1Sm5OMFBXeHBkbVVtYzNSNVBXUmhjMmclM2QmdG9rPTY5N2JlNDgxNWVjYjY3NmYwYTY5NmUzYzc2YTFkYjNlNmEwOWM2MjgmZGV2aWQ9ZGNmYWVmYTczYTYzOGRmYTJjY2RjNjNlZjc1MmU1Yzc%3D/auto_h264.mpd
 #http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 http://43.245.34.8:9000/OneTV/MYTV.m3u8
+#EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (720p)
+http://dodge.eu5.org/Get?id=14
 #EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV🇰🇭
 http://live.happywatch99.com/livehd3/f9527f8b5631c605187be673ce3f2f75.sdp/playlist.m3u8
 
