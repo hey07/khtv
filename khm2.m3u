@@ -56,7 +56,7 @@ http://clive.malisresidences.com:1935/tv5/_definst_/smil:tv5.smil/chunklist_w194
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="TVK",TVK (720p)
 #https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-http://43.245.34.8:9000/OneTV/KTV.m3u8
+http://43.245.34.8:9000/OneTV/TVK.m3u8
 #EXTINF:-1 tvg-id="Apsara TV" tvg-name="Apsara TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-Y67HLYUc8tI/XllMvduYKHI/AAAAAAAAJ9s/-PkYiDQ_DPAkhSBrZCr6liCzuONjPCxlgCLcBGAsYHQ/s1600/apsara-tv.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Apsara TV
 #https://live.ams.com.kh/app/stream/playlist.m3u8
 #https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
