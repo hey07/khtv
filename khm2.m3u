@@ -44,6 +44,9 @@ http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklis
 #https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 #http://43.245.34.8:9000/OneTV/PNN.m3u8
 http://dodge.eu5.org/Get?id=8
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
+#EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="🇰🇭 Cambodia",PNN (1080p)
+https://wwkhhome.wewatch.asia/nl.m3u8?id=PNN1003
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ប៉ុស្តិ៍ខ្មែរ",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia
