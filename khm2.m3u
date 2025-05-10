@@ -45,6 +45,7 @@ http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklis
 https://wwkhhome.wewatch.asia/nl.m3u8?id=PNN1003
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ប៉ុស្តិ៍ខ្មែរ",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia
 #http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
