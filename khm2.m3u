@@ -98,9 +98,17 @@ http://dodge.eu5.org/Get?id=14
 #EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV🇰🇭
 http://live.happywatch99.com/livehd3/f9527f8b5631c605187be673ce3f2f75.sdp/playlist.m3u8
 
-*** International News ***
-
-
+*** FIFA 2026 ***
+#EXTINF:-87 player-buffer="50" tvg-id="Somoy-TV-3Mb" tvg-logo="Somoy-TV-3Mb" group-title="Somoy-TV-3Mb",Somoy-TV-3Mb
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 player-buffer="50" tvg-id="Bein-Sports-Direct-FR" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026",Bein Sports Direct 🇫🇷
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 player-buffer="50" tvg-id="Bein-Sports-1-Max-FR-QA" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026",Bein Sports 1 Max 🇫🇷 🇶🇦
+https://no-red.pages.dev/liveop2.m3u8
+#EXTINF:-1 player-buffer="50" tvg-id="4k-HDR" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026",4k HDR
+http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV5.png" ,CCTV 5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 *** Japanese TV ***
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
