@@ -78,7 +78,8 @@ http://202.79.26.142/LiveApp/streams/TownTVHD.m3u8
 #http://103.25.92.30:10017/2.m3u8
 #http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 #http://43.245.34.8:9000/OneTV/CNC.m3u8
-http://43.252.18.195:5080/live/streams/cnctv.m3u8
+#http://43.252.18.195:5080/live/streams/cnctv.m3u8
+https://live.happywatch99.com/cnc/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="CTN Group",CTN 
 https://live.happywatch99.com/ctn/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #work-http://103.25.92.30:10016/2.m3u8
