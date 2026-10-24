@@ -2,18 +2,12 @@
 # Khmer Channel #
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="Bayon TV Group",ទូរទស្សន៍ បាយ័ន (720p) [Not 24/7]
 http://stream.mekongtv.net:8989/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-9 player-buffer="50" tvg-id="BayonTV.kh" tvg-name="Bayon TV (1080p)" tvg-logo="https://i.imgur.com/lrI4Gf9.png" group-title="Bayon TV Group",Bayon TV (1080p)
-https://cdnssc.wewatch.asia/b3A9WTJsa1BUQkZOekl3TmtVeE9UQkRORFEwTWtVNU5UaEdOakZGT1VaR05UYzVORE0wSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 *** Hang Meas Group ***
-#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Hang Meas Group",Rasmey Hang Meas HDTV
-http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ប៉ុស្តិ៍ខ្មែរ",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia
-https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="TVK",TVK 2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="TVK",TVK (720p)
@@ -22,37 +16,56 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KHMERTV.KH" tvg-name="KhmerTV" tvg-country="KH" tvg-language="khmer" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ", Khmer TV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="CTN Group",CTN 
-https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13UlRnMk1VTXdPVFV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="CTN Group",MYTV 
-https://cdnssc.wewatch.asia/b3A9WTJsa1BUQTRNVGRHT1RVMU4wUXhRVFJHUkVRNU9URTJOVEV6TkRaQk5qY3dOakV4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-
 #EXTINF:-1 tvg-id="ARDBTV.kh@SD" group-title="New",ARDB TV (1080p) [Not 24/7]
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
-
 #EXTINF:-1 tvg-id="CTV9.kh@SD" group-title="New",CTV 9 (1080p)
 http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
-
 #EXTINF:-1 tvg-id="EBCGeneralEducation.kh@SD" group-title="New",EBC General Education (720p) [Not 24/7]
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
-
 #EXTINF:-1 tvg-id="FreshNews.kh@SD" group-title="New",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MSJTV.kh@SD" group-title="New",MSJ TV
 http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8
-
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh@SD" group-title="New",One TV E-School Cambodia (1080p)
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
-
 #EXTINF:-1 tvg-id="SangkemTV.kh@SD" group-title="New",Sangkem TV
 https://live.sangkemtv.com/memfs/sangkem.m3u8
-
 #EXTINF:-1 tvg-id="WikiTV.kh@SD" group-title="New",WIKI TV (720p)
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CTV9.kh@SD" group-title="New",CTV 9
 https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8
-
 #EXTINF:-1 tvg-id="TownTV.kh@SD" group-title="New",Town TV
 https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+
+#EXTINF:-1 group-title="New" tvg-id="EACNewsTV.kh@SD",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
+
+#EXTINF:-1 tvg-id="CTN.kh" group-title="CTN Group",CTN HD (pdtvhd)
+https://ip.pdtvhd.com/Khmer/streams/CTNHD.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.kh" group-title="CTN Group",MYTV (Cootel)
+http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
+
+#EXTINF:-1 group-title="News",SBM News
+https://restream.pdtvhd.com/memfs/a36ec7de-0eb3-45e2-b1d0-be6dae9338fb.m3u8
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍ខ្មែរ",Khmer Movie
+https://ip.pdtvhd.com/Khmer/streams/AGGmovie.m3u8
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍ខ្មែរ",Mekong TV
+https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1792141798&mtvhash=5M5w3hVf-ifc8ProGGqrdaXOFY9cK8kvk4j0kb3g1Dg=
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍ខ្មែរ",B2B Channel
+https://stream.mekongtv.net/livemp4/B2BChannel.stream/chunklist_w1580825333.m3u8
+
+#EXTINF:-1 tvg-id="MSJTV.kh" group-title="ប៉ុស្តិ៍ខ្មែរ",MSJ TV (official)
+https://live.msjtv.com/live/streams/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WikiTV.kh" group-title="ប៉ុស្តិ៍ខ្មែរ",WIKI TV (alt)
+http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVK.kh" group-title="TVK",TVK (FTA alt)
+https://livefta.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVK2.kh" group-title="TVK",TVK 2 (FTA alt)
+https://livefta.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
