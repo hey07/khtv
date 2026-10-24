@@ -36,36 +36,37 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh@SD" group-title="New",Town TV
 https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
-
 #EXTINF:-1 group-title="New" tvg-id="EACNewsTV.kh@SD",EAC News TV
 https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
-
 #EXTINF:-1 tvg-id="CTN.kh" group-title="CTN Group",CTN HD (pdtvhd)
 https://ip.pdtvhd.com/Khmer/streams/CTNHD.m3u8
-
 #EXTINF:-1 tvg-id="MyTV.kh" group-title="CTN Group",MYTV (Cootel)
 http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
-
 #EXTINF:-1 group-title="News",SBM News
 https://restream.pdtvhd.com/memfs/a36ec7de-0eb3-45e2-b1d0-be6dae9338fb.m3u8
-
 #EXTINF:-1 group-title="ប៉ុស្តិ៍ខ្មែរ",Khmer Movie
 https://ip.pdtvhd.com/Khmer/streams/AGGmovie.m3u8
-
 #EXTINF:-1 group-title="ប៉ុស្តិ៍ខ្មែរ",Mekong TV
 https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1792141798&mtvhash=5M5w3hVf-ifc8ProGGqrdaXOFY9cK8kvk4j0kb3g1Dg=
-
 #EXTINF:-1 group-title="ប៉ុស្តិ៍ខ្មែរ",B2B Channel
 https://stream.mekongtv.net/livemp4/B2BChannel.stream/chunklist_w1580825333.m3u8
-
 #EXTINF:-1 tvg-id="MSJTV.kh" group-title="ប៉ុស្តិ៍ខ្មែរ",MSJ TV (official)
 https://live.msjtv.com/live/streams/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WikiTV.kh" group-title="ប៉ុស្តិ៍ខ្មែរ",WIKI TV (alt)
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVK.kh" group-title="TVK",TVK (FTA alt)
 https://livefta.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="TVK2.kh" group-title="TVK",TVK 2 (FTA alt)
 https://livefta.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CTV8HD.kh" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8 HD
+https://live.pdtvhd.com/hls/ctv8hd.m3u8
+
+#EXTINF:-1 tvg-id="iTVHD.kh" group-title="ប៉ុស្តិ៍ខ្មែរ",iTV HD
+https://live.pdtvhd.com/hls/itvhd.m3u8
+
+#EXTINF:-1 tvg-id="BayonTV.kh" group-title="Bayon TV Group",BTV (Bayon)
+https://live.pdtvhd.com/hls/btvhd.m3u8
+
+#EXTINF:-1 tvg-id="KHMERTV.KH" group-title="ប៉ុស្តិ៍ខ្មែរ",Khmer TV (alt)
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
