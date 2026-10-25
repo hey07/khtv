@@ -36,8 +36,6 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh@SD" group-title="New",Town TV
 https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
-#EXTINF:-1 group-title="New" tvg-id="EACNewsTV.kh@SD",EAC News TV
-https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="CTN.kh" group-title="CTN Group",CTN HD (pdtvhd)
 https://ip.pdtvhd.com/Khmer/streams/CTNHD.m3u8
 #EXTINF:-1 tvg-id="MyTV.kh" group-title="CTN Group",MYTV (Cootel)
